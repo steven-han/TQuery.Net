@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**  功能：SQL SERVER 类
+ *   作者：Steven_Han 
+ *   MSN： Steven_Han@live.com
+**/
+using System;
 using System.Collections;
 using System.Data;
 using System.Data.SqlClient;
